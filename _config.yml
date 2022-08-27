@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Harish Rathuri </p>
+logo: /assets/img/Harish Photo.jpeg
+
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/harish-rathuri-1a813b52/">LinkedIn</a> |
+  <a href="https://github.com/harryraturi">GitHub</a>
+  
+  <br> 
+  I'm learning Machine Learning & AI.
+  Also I'v 12+ years of experience in Mobile Application Development.
+  Worked with differenct Domain like OTT, Health Care and Services based.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
